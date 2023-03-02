@@ -9,8 +9,8 @@
 
 ## Tecnologías:
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git)[]()
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 
 ## Encuéntrame en:
 
