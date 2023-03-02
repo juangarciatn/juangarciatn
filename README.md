@@ -10,7 +10,7 @@
 ## Tecnologías:
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white)
 
 ## Encuéntrame en:
 
