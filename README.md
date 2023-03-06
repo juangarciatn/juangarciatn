@@ -11,6 +11,8 @@
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F1502F?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F1502F?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Encuéntrame en:
 
