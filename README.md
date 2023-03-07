@@ -3,13 +3,13 @@
   <br>
   </br>
 <p align="center">
-  <a href="mailto:juan.garcia.anton@gmail.com">
+  <a href="mailto:juan.garcia.anton@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Juan_García-D14836?logo=gmail&logoColor=white&labelColor=D14836">
   </a>
-  <a href="https://www.linkedin.com/in/juangarciatn">
+  <a href="https://www.linkedin.com/in/juangarciatn" target="_blank">
     <img src="https://img.shields.io/badge/Juan_García-0077B5?logo=linkedin&logoColor=white&labelColor=0077B5">
   </a>
-  <a href="https://stackoverflow.com/users/21257456/juan-garc%c3%ada">
+  <a href="https://stackoverflow.com/users/21257456/juan-garc%c3%ada" target="_blank">
     <img src="https://img.shields.io/badge/Juan_García-F58025?logo=stackoverflow&logoColor=white&labelColor=F58025">
   </a>
  </p>
