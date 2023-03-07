@@ -16,6 +16,8 @@
 
 <h2 align="center"> Tecnologías:
 <h4 align="center"> Junior
+  <br>
+  </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
