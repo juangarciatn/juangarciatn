@@ -31,4 +31,4 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-@juangarciatn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/juangarciatn)
 <br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juangarciatn)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=juangarciatn.juangarciatn&left_color=gray&right_color=gray)
